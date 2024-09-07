@@ -1,2 +1,2 @@
-# component
+# Component
 Extension for maragudk/gomponents
